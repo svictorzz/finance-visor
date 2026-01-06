@@ -54,8 +54,8 @@ export interface ChartDataPoint {
 }
 
 export const mockUser = {
-  name: 'Rafael Silva',
-  email: 'rafael@example.com',
+  name: 'Victor',
+  email: 'victor@gmail.com',
 };
 
 export const mockCategories: Category[] = [
@@ -340,7 +340,7 @@ export const mockPatrimonioHistoryData: ChartDataPoint[] = [
 
 export const totalIncome = 10500.0;
 export const totalExpenses = 5380.0;
-export const patrimonio = 49880.5;
+export const patrimonio = 4978800.5;
 export const patrimonioGrowth = 3.8;
 export const recurringExpensesTotal = 2160.3;
 export const recurringExpensesPaid = 1899.8;
